@@ -1,0 +1,5 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/rxo/Pictures/fir.jpg' 
+#feh --no-fehbg --bg-color #26292d
+
+i3-msg 'gaps inner current set 30'
